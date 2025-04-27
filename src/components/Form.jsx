@@ -42,7 +42,6 @@ const Form = () => {
   }, [passwordLength, includeNumbers, includeChars]);
 
 
-
   return (
     <div className="w-full max-w-md mx-auto shadow-xl rounded-lg px-6 py-6 my-8 bg-gray-800 text-white">
       <h1 className="text-2xl font-semibold text-center text-blue-400 mb-4">
